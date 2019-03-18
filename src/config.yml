@@ -1,0 +1,8 @@
+comandos:
+    - 'give %player% 98 1'
+    
+broadcast_vote:
+    - '&3%player% &8Votou no servidor e recebeu sua recompensa'
+    
+broadcast_votou_offline: '&3%player% &8Votou offline, portanto nao ganhou nada'
+    
